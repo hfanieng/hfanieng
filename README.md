@@ -12,12 +12,12 @@ i'm Heiko Fanieng, a full stack deveolper
 - 🤔 Ich suche Unterstützung bei allen neuen IT Herausforderungen und Projekten  
     i’m looking for help with all new challenges in IT
 - 💬 Frage mich nach Datenbanken, Probgrammiersprachen & Erfahrungen  
-ask me about databases, programming languages & experience
+    ask me about databases, programming languages & experience
 - 📫 Man erreicht mich über das GitHub-Profil, die verknüpften sozialen Medien und per Mail  
 You can reach me via the GitHub profile, the linked social media and by email
-how to reach me: via my profile or Mail
+    how to reach me: via my profile or Mail
 - ⚡ Fun fact: Bin interessiert an allem, was mit Musik zu tun hat. Konzerte, Licht-Shows und der Umsetzung mit Software  
-i am interested in everything that has to do with music. Concerts, light shows and the realisation with software
+    i am interested in everything that has to do with music. Concerts, light shows and the realisation with software
 
 ## Meine Programmiersprchen & Hilfsmittel / my programming languages & tools
 
