@@ -13,7 +13,7 @@ i'm Heiko Fanieng, a full stack deveolper
     i’m looking for help with all new challenges in IT
 - 💬 Frage mich nach Datenbanken, Probgrammiersprachen & Erfahrungen  
 ask me about databases, programming languages & experience
-- 📫 Man erreicht mich über das GitHub-Profil, die verknüpften sozielen Medien und per Mail  
+- 📫 Man erreicht mich über das GitHub-Profil, die verknüpften sozialen Medien und per Mail  
 You can reach me via the GitHub profile, the linked social media and by email
 how to reach me: via my profile or Mail
 - ⚡ Fun fact: Bin interessiert an allem, was mit Musik zu tun hat. Konzerte, Licht-Shows und der Umsetzung mit Software  
