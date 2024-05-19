@@ -21,7 +21,8 @@ You can reach me via the GitHub profile, the linked social media and by email
 
 ## Meine Programmiersprchen & Hilfsmittel / my programming languages & tools
 
-   <a  target="_blank" rel="noreferrer"> <img src="https://swimburger.net/media/fbqnp2ie/azure.svg" alt="azure" width="40" height="40"/>
-   <a  target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="azure" width="80" height="40"/>
- <a  target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>  
- <a  target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png" alt="vscode" width="40" height="40"/> </a>
+||||
+|:---|---|---|
+|![ADS-Logo](https://swimburger.net/media/fbqnp2ie/azure.svg)[Azure Data Studio](https://azure.microsoft.com/en-us/products/data-studio)|![Git-Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/320px-Git-logo.svg.png)[Git](https://git-scm.com)|![GitHub-Logo](img/github-mark-white.svg)[GitHub](http://github.com)|
+|![M365-logo](img/microsoft_365_2022.svg)[Microsoft 365](https://microsoft365.com)|![MSSQL-Logo](img/10130-icon-service-SQL-Database.svg)[Microsoft SQL](https://www.microsoft.com/en-us/sql-server/sql-server-2022)|![Phyton-Logo](img/python-logo-generic.png)[Python](http://python.org)|
+|![VSC-Logo](img/Visual_Studio_Code_1.35_icon.png)[Visual Studio Code](https://code.visualstudio.com)||![Stats](https://github-readme-stats.vercel.app/api/top-langs?username=hfanieng&show_icons=true&locale=en&layout=compact)|
