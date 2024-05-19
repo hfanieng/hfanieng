@@ -23,6 +23,6 @@ You can reach me via the GitHub profile, the linked social media and by email
 
 ||||
 |:---|---|---|
-|![ADS-Logo](https://swimburger.net/media/fbqnp2ie/azure.svg)[Azure Data Studio](https://azure.microsoft.com/en-us/products/data-studio)|![Git-Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/320px-Git-logo.svg.png)[Git](https://git-scm.com)|![GitHub-Logo](img/github-mark-white.svg)[GitHub](http://github.com)|
-|![M365-logo](img/microsoft_365_2022.svg)[Microsoft 365](https://microsoft365.com)|![MSSQL-Logo](img/10130-icon-service-SQL-Database.svg)[Microsoft SQL](https://www.microsoft.com/en-us/sql-server/sql-server-2022)|![Phyton-Logo](img/python-logo-generic.png)[Python](http://python.org)|
-|![VSC-Logo](img/Visual_Studio_Code_1.35_icon.png)[Visual Studio Code](https://code.visualstudio.com)||![Stats](https://github-readme-stats.vercel.app/api/top-langs?username=hfanieng&show_icons=true&locale=en&layout=compact)|
+|![ADS-Logo](/img/microsoft_azure.png)[Azure Data Studio](https://azure.microsoft.com/en-us/products/data-studio)|![Git-Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/320px-Git-logo.svg.png)[Git](https://git-scm.com)|![GitHub-Logo](img/github-mark-white.svg)[GitHub](http://github.com)|
+|![M365-logo](img/microsoft_365.png)[Microsoft 365](https://microsoft365.com)|![MSSQL-Logo](img/10130-icon-service-SQL-Database.svg)[Microsoft SQL](https://www.microsoft.com/en-us/sql-server/sql-server-2022)|![Phyton-Logo](img/python-logo-generic.png)[Python](http://python.org)|
+|![VSC-Logo](img/vs_code.png)[Visual Studio Code](https://code.visualstudio.com)||![Stats](https://github-readme-stats.vercel.app/api/top-langs?username=hfanieng&show_icons=true&locale=en&layout=compact)|
