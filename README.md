@@ -26,6 +26,14 @@ I'm Heiko Fanieng, a full stack developer.
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=hfanieng&theme=transparent&hide_border=false)
 
+---
+
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=hfanieng&theme=transparent&no-frame=false&no-bg=true&margin-w=4)
+
+---
+
 ## Meine Programmiersprachen & Hilfsmittel / My Programming Languages & Tools
 
 | | | |
