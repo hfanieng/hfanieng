@@ -20,6 +20,12 @@ I'm Heiko Fanieng, a full stack developer.
 
 ---
 
+## 📊 GitHub Stats
+
+[![GitHub stats](https://github-readme-stats-tau-one-38.vercel.app/api?username=alexanderkasten&theme=transparent&include_all_commits=true&count_private=true&show=reviews,prs_merged,prs_merged_percentage)](https://github.com/anuraghazra/github-readme-stats)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=hfanieng&theme=transparent&hide_border=false)
+
 ## Meine Programmiersprachen & Hilfsmittel / My Programming Languages & Tools
 
 | | | |
